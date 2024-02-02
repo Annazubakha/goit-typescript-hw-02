@@ -15,8 +15,3 @@ class Page extends Component<IProps> {
 }
 
 export {};
-
-// •	4 Завдання
-//          interface повинен бути один і використовоуємо interface при оголошення класу Page
-// interface IProps {}
-// class Page extends Component<IProps> {}
